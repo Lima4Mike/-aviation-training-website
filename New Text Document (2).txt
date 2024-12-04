@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V1 - Aviation Subscription</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>V1 Aviation Subscription</h1>
+            <p>Ace your SACAA PPL & CPL exams with ease!</p>
+            <a href="#features" class="cta-button">Explore Features</a>
+        </div>
+    </header>
+
+    <main>
+        <section id="features" class="section">
+            <h2>Our Features</h2>
+            <ul>
+                <li><strong>Practice Exams:</strong> Simulate real exam conditions with mock tests.</li>
+                <li><strong>Detailed Study Guides:</strong> Comprehensive materials tailored to SACAA standards.</li>
+                <li><strong>Interactive Learning Modules:</strong> Engage with video tutorials and quizzes.</li>
+                <li><strong>Subscription Plans:</strong> Flexible options to suit your needs, including free trials.</li>
+                <li><strong>User Testimonials:</strong> See how we’ve helped aspiring pilots succeed.</li>
+            </ul>
+        </section>
+
+        <section id="plans" class="section">
+            <h2>Subscription Plans</h2>
+            <div class="plans">
+                <div class="plan">
+                    <h3>Basic Plan</h3>
+                    <p>Access to study guides and quizzes</p>
+                    <p><strong>$10/month</strong></p>
+                </div>
+                <div class="plan">
+                    <h3>Premium Plan</h3>
+                    <p>All features, including practice exams and interactive modules</p>
+                    <p><strong>$25/month</strong></p>
+                </div>
+            </div>
+        </section>
+
+        <section id="testimonials" class="section">
+            <h2>What Our Users Say</h2>
+            <p>"V1 made my SACAA exam preparation stress-free and efficient!" - Jane Doe</p>
+            <p>"Thanks to V1, I passed my CPL exam on the first attempt!" - John Smith</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 V1. All rights reserved.</p>
+    </footer>
+</body>
+</html>
